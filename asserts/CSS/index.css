@@ -1,0 +1,42 @@
+body{
+
+}
+.im{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+    width: 20%;
+}
+
+#home h1{
+    font-size: 100px;
+}
+
+#home p{
+    font-size: 35px;
+}
+
+.in{
+    width: 100%;
+}
+
+.inn{
+    width: 85%;
+}
+
+hr{
+    display: block;
+    border: 5px solid black
+
+}
+
+#Footer{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+#footer p{
+    font-size: 20px;
+}
